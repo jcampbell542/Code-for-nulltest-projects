@@ -8,7 +8,7 @@ Here is the measurement optimization analysis writeup: https://docs.google.com/d
 
 Here is the outlier detection analysis writeup: https://docs.google.com/document/d/1Tf8VRuq_GCPr1bXcGkLMT9a-594VI1IMyXoBThxyzkU/
 
-To run this notebook in your own environment, I recommend the following steps: this notebook.
+To run this notebook in your own environment, I recommend the following steps:
 
 Install the pathlib, pandas, numpy, datetime, scipy, matplotlib, and random modules. These modules are used by the functionality in
 Get the dataset at Kaggle: https://www.kaggle.com/datasets/manjeetsingh/retaildataset
